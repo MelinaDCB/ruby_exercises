@@ -4,3 +4,4 @@ choice = gets.chomp
 choice.to_i.times do |i|
     puts i + 1
 end
+#test
